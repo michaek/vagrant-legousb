@@ -1,0 +1,5 @@
+task main()
+{
+  // Everything on.
+  OnFwd(OUT_A+OUT_B+OUT_C);
+}

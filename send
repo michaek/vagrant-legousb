@@ -1,0 +1,2 @@
+#!/bin/sh
+vagrant ssh -- nqc -Susb:/dev/usb/legousbtower0 -d /vagrant/$1
